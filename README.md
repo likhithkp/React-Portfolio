@@ -1,10 +1,10 @@
 # React JS Portfolio Website
 
+![Screenshot (52)](https://github.com/likhithkp/React-Portfolio/assets/88890448/f31e4acd-b58b-4fea-8476-8a6b71371086)
+
 ## Overview
 
 Welcome to my React JS Portfolio Website! This project showcases my skills and projects with a modern and responsive design. Built using React, Vite, and Tailwind CSS, it offers an efficient and aesthetic web experience. The portfolio even includes a functional form powered by getform.io for automated message submissions. How cool is that? I hope you enjoy exploring!
-
-![Screenshot (52)](https://github.com/likhithkp/React-Portfolio/assets/88890448/f31e4acd-b58b-4fea-8476-8a6b71371086)
 
 ## Features
 
