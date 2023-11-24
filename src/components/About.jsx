@@ -18,8 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I specialize in web development, with a focus on React.js. My
-              coding journey started during holidays, and it's evolved into a
+              I specialize in web development. My coding journey started during holidays, and it's evolved into a
               passion for crafting user-friendly websites that strike a balance
               between functionality and style. Keen on staying up-to-date with
               industry trends, I aim to create digital solutions that not only
