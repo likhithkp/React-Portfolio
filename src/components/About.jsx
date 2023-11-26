@@ -17,17 +17,13 @@ const About = () => {
             <p>Hi. I'm Likhith, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>
-              I specialize in web development. My coding journey started during holidays, and it's evolved into a
-              passion for crafting user-friendly websites that strike a balance
-              between functionality and style. Keen on staying up-to-date with
-              industry trends, I aim to create digital solutions that not only
-              meet but exceed expectations. Collaboration is at the core of my
-              work, emphasizing effective communication, attention to detail,
-              and a commitment to excellence. Feel free to explore my portfolio;
-              I'm excited about the possibility of building something great
-              together!
-            </p>
+          <p>
+          Embarking on my coding journey during the third year of my engineering studies, I have cultivated a profound specialization in web development. This odyssey has transformed into a fervent dedication to the art of crafting user-centric websites that harmoniously amalgamate functionality and aesthetic appeal.
+          </p>
+          <br />
+          <p>
+          Committed to continual learning, I not only specialize in web development but also possess the capacity to adeptly learn new and diverse technologies. Maintaining a vigilant watch on industry trends, I am driven to conceptualize and deliver digital solutions that not only meet expectations but transcend them. At the heart of my professional ethos lies a commitment to collaboration, underscored by effective communication, meticulous attention to detail, and an unwavering pursuit of excellence.
+          </p>
           </div>
         </div>
       </div>
