@@ -12,13 +12,10 @@ const Home = () => {
           Likhith K.P.
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Frontend Developer.
+          Empowering Innovation through Elegant Code.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Passionate web developer with a flair for turning ideas into
-          interactive and visually appealing digital experiences. With a keen
-          eye for design and a love for clean, efficient code, I thrive on
-          bringing websites to life.
+          I'm not just a software developer; I'm a maestro orchestrating digital symphonies, bringing ideas to life with precision, passion, and a commitment to shaping the future of technology.
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
