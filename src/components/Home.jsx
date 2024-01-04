@@ -11,9 +11,9 @@ const Home = () => {
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
           Likhith K.P.
         </h1>
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
+        <h3 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           I am a Software Developer.
-        </h2>
+        </h3>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
     As a developer, I intricately weave brilliance into the fabric of every codebase. With a relentless dedication from conception to execution, I sculpt seamless digital experiences that push the boundaries of what's possible.
           </p>
