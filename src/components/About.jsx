@@ -18,12 +18,10 @@ const About = () => {
           </div>
           <div>
           <p>
-          Embarking on my coding journey during the third year of my engineering studies, I have cultivated a profound specialization in web development. This odyssey has transformed into a fervent dedication to the art of crafting user-centric websites that harmoniously amalgamate functionality and aesthetic appeal.
-          </p>
+          Embarking on my coding journey during the third year of my engineering studies, I have cultivated a profound specialization in software development. This odyssey has transformed into a fervent dedication to the art of crafting user-centric applications that harmoniously amalgamate functionality and aesthetic appeal.</p>
           <br />
           <p>
-          Committed to continual learning, I not only specialize in web development but also possess the capacity to adeptly learn new and diverse technologies. Maintaining a vigilant watch on industry trends, I am driven to conceptualize and deliver digital solutions that not only meet expectations but transcend them. At the heart of my professional ethos lies a commitment to collaboration, underscored by effective communication, meticulous attention to detail, and an unwavering pursuit of excellence.
-          </p>
+          Committed to continual learning, I not only specialize in software development but also possess the capacity to adeptly learn new and diverse technologies. Maintaining a vigilant watch on industry trends, I am driven to conceptualize and deliver digital solutions that not only meet expectations but transcend them. At the heart of my professional ethos lies a commitment to collaboration, underscored by effective communication, meticulous attention to detail, and an unwavering pursuit of excellence.</p>
           </div>
         </div>
       </div>
