@@ -12,10 +12,11 @@ const Home = () => {
           Likhith K.P.
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          Innovate. Integrate. Elevate.
+          I am a Software Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-            I am a software developer weaving brilliance into every line of code. From concept to execution, I am dedicated to sculpting seamless digital experiences that redefine what's possible.        </p>
+    As a developer, I intricately weave brilliance into the fabric of every codebase. With a relentless dedication from conception to execution, I sculpt seamless digital experiences that push the boundaries of what's possible.
+          </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
