@@ -1,4 +1,5 @@
 # React JS Portfolio Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/862b7c7f-6277-4f2f-b04e-5bf3a6226d50/deploy-status)](https://app.netlify.com/sites/likhithkp/deploys)
 
 ![Screenshot (52)](https://github.com/likhithkp/React-Portfolio/assets/88890448/f31e4acd-b58b-4fea-8476-8a6b71371086)
 
