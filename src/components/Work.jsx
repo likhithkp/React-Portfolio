@@ -18,7 +18,7 @@ const Work = () => {
 
         {/* container for projects */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-          {/* Gird Item */}
+          {/* Grid Item */}
           {project.map((item, index) => (
             <div
               key={index}
@@ -27,10 +27,11 @@ const Work = () => {
               flex justify-center text-center items-center mx-auto content-div "
             >
               {/* Hover effect for images */}
-              <div className="opacity-0 group-hover:opacity-100 ">
+              <div className="hover-effect w-full h-full rounded-md grid place-items-center opacity-0 group-hover:opacity-100 ">
                 <span className="text-2xl font bold text-white tracking-wider ">
                   {item.name}
                 </span>
+
                 <div className="pt-8 text-center ">
                   {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
@@ -61,5 +62,3 @@ const Work = () => {
 };
 
 export default Work;
-
-
