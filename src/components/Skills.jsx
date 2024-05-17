@@ -11,6 +11,7 @@ import Mongo from "../assets/mongo.png";
 import TypeScript from  "../assets/typescript_5968381.png";
 import ReactNative from "../assets/rn.png"
 import Nextjs from "../assets/nextjs.png"
+import app from "../assets/app.png"
 
 const Skills = () => {
   return (
@@ -64,6 +65,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 p-4">
             <img className="w-20 mx-auto" src={Mongo} alt="HTML icon" />
             <p className="my-4">MONGO DB</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 p-4">
+            <img className="w-20 mx-auto" src={app} alt="HTML icon" />
+            <p className="my-4">APP DEVELOPMENT</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500 p-4">
             <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
